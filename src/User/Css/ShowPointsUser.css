@@ -1,0 +1,7 @@
+body {
+    direction: rtl;
+}
+
+th, td {
+    padding: 20px;
+}

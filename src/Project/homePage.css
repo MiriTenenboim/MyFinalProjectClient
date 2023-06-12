@@ -1,0 +1,52 @@
+body {
+    background-image: url('home.jpg');
+    /* background-size: cover; Adjust to your needs */
+    /* background-position: center; Adjust to your needs */
+    background-repeat: no-repeat;
+    font-family: Calibri;
+    color: #7F7F7F;
+}
+
+div {
+    margin: 25px;
+    margin-top: 20px;
+}
+
+form {
+    margin: 35px;
+}
+
+.Button {
+    margin: 20px;
+    width: 70px;
+    height: 50px;
+    font-family: 'BN Madregot';
+}
+
+#changeStatus {
+    border: none;
+    border-bottom: 3px solid #F3028B;
+    background-color: transparent;
+    padding: 5px 40px;
+    font-family: 'BN Madregot';
+    color: #7F7F7F;
+}
+
+#enterButton {
+    padding: 10px 40px;
+    font-family: 'BN Madregot';
+    margin: 20px;
+    color: #7F7F7F;
+}
+
+.Details {
+    border: none;
+    border-bottom: 3px solid #F3028B;
+    outline: none;
+    padding: 5px 40px;
+    margin: 10px;
+    font-family: Calibri;
+    text-align: center;
+    background-color: transparent;
+    color: #7F7F7F;
+}
